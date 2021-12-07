@@ -1,7 +1,7 @@
 ## Olá! Sou Danilo Borges, Engenheiro de Software e Amante da Prática de Programação!
 <div align="left">
   <a href="hhttps://github.com/danilo-borges-dev/danilo-borges-dev">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danilo-borges-dev&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=danilo-borges-dev&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-borges-dev&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
